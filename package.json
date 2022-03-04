@@ -34,10 +34,7 @@
     ]
   },
   "devDependencies": {
-    "autoprefixer": "^9.7.6",
-    "postcss": "^7.0.30",
-    "postcss-cli": "^7.1.1",
-    "tailwindcss": "^1.4.6"
+    "postcss-cli": "^7.1.2"
   },
   "license": "MIT"
 }
